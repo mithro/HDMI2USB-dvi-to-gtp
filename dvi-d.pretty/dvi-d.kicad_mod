@@ -1,0 +1,165 @@
+(module dvi-d (layer F.Cu) (tedit 5402CFA8)
+  (fp_text reference J5 (at 16.256 -6.604) (layer F.SilkS)
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value DVI-D (at -0.127 -6.477) (layer F.SilkS)
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text user D0- (at -6.35 1.016) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D0+ (at -4.445 1.016) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D0S (at -2.54 1.016) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D5- (at -0.635 1.016) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D5+ (at 1.27 1.016) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user CLKS (at 3.175 1.016) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user CLK+ (at 5.08 1.016) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user CLK- (at 6.985 1.016) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user HPD (at 6.985 -0.889) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user GND (at 5.08 -0.889) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user +5V (at 3.175 -0.889) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D3+ (at 1.27 -0.889) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D3- (at -0.635 -0.889) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D1S (at -2.54 -0.889) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D1+ (at -4.445 -0.889) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D1- (at -6.35 -0.889) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D2- (at -6.35 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D2+ (at -4.445 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D2S (at -2.54 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D4- (at -0.635 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D4+ (at 1.27 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user SDC (at 3.175 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user SDA (at 5.08 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user AVS (at 6.985 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user AVS (at 6.985 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user SDA (at 5.08 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user SDC (at 3.175 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D4+ (at 1.27 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D4- (at -0.635 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D2S (at -2.54 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D2+ (at -4.445 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text user D2- (at -6.35 -2.54) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_line (start 22.733 -4.572) (end 22.606 -4.572) (layer F.SilkS) (width 0.15))
+  (fp_line (start -16.51 -4.572) (end -16.51 -4.445) (layer F.SilkS) (width 0.15))
+  (fp_line (start -16.51 7.62) (end -16.51 -4.445) (layer F.SilkS) (width 0.15))
+  (fp_line (start 22.733 7.62) (end 22.733 -4.572) (layer F.SilkS) (width 0.15))
+  (fp_line (start -16.51 -4.572) (end 22.606 -4.572) (layer F.SilkS) (width 0.15))
+  (fp_line (start -6.35 7.62) (end -6.35 5.588) (layer F.SilkS) (width 0.15))
+  (fp_line (start -6.35 5.588) (end 12.954 5.588) (layer F.SilkS) (width 0.15))
+  (fp_line (start 12.954 5.588) (end 12.954 7.62) (layer F.SilkS) (width 0.15))
+  (fp_line (start -11.938 7.62) (end -16.51 7.62) (layer F.SilkS) (width 0.15))
+  (fp_line (start 22.606 7.62) (end 22.098 7.62) (layer F.SilkS) (width 0.15))
+  (fp_line (start -11.938 7.62) (end 22.098 7.62) (layer F.SilkS) (width 0.15))
+  (pad 1 thru_hole circle (at -6.35 -1.8796) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 2 thru_hole circle (at -4.445 -1.8796) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 3 thru_hole circle (at -2.54 -1.8796) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 4 thru_hole circle (at -0.635 -1.8796) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 5 thru_hole circle (at 1.27 -1.8796) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 6 thru_hole circle (at 3.175 -1.8796) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 7 thru_hole circle (at 5.08 -1.8796) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 8 thru_hole circle (at 6.985 -1.8796) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 9 thru_hole circle (at -6.35 0.0254) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.127))
+  (pad 10 thru_hole circle (at -4.445 0.0254) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 11 thru_hole circle (at -2.54 0.0254) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 12 thru_hole circle (at -0.635 0.0254) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 13 thru_hole circle (at 1.27 0.0254) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 14 thru_hole circle (at 3.175 0.0254) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 15 thru_hole circle (at 5.08 0.0254) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 16 thru_hole circle (at 6.985 0.0254) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 17 thru_hole circle (at -6.35 1.9304) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.127))
+  (pad 18 thru_hole circle (at -4.445 1.9304) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 19 thru_hole circle (at -2.54 1.9304) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 20 thru_hole circle (at -0.635 1.9304) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 21 thru_hole circle (at 1.27 1.9304) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 22 thru_hole circle (at 3.175 1.9304) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 23 thru_hole circle (at 5.08 1.9304) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.1016))
+  (pad 24 thru_hole circle (at 6.985 1.9304) (size 1.524 1.524) (drill 1.00076) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.127))
+  (pad 0 thru_hole circle (at -12.175 1.9304) (size 3 3) (drill 2) (layers *.Cu *.Mask F.SilkS))
+  (pad 0 thru_hole circle (at 18.525 1.9304) (size 3 3) (drill 2) (layers *.Cu *.Mask F.SilkS))
+)

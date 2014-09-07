@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Sun 31 Aug 2014 03:56:17 PM EST
+
+BeginCmp
+TimeStamp = /5402B1B6;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5402B1DA;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5402AE59;
+Reference = J1;
+ValeurCmp = DVI-D;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5402AEDD;
+Reference = J2;
+ValeurCmp = DVI-D;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5402B54F;
+Reference = L1;
+ValeurCmp = 1uH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5402B3D4;
+Reference = L2;
+ValeurCmp = 1uH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5402B25A;
+Reference = R1;
+ValeurCmp = 51;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5402B2BB;
+Reference = R2;
+ValeurCmp = 51;
+IdModule  = ;
+EndCmp
+
+EndListe

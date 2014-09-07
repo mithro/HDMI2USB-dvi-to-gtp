@@ -1,3 +1,5 @@
 _autosave*
-*.bak
+*bak
 *.bck
+*.net
+*.000
